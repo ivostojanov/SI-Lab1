@@ -26,4 +26,5 @@ nano commands.txt
 git add commands.txt
 git commit -m "added commands.txt"
 git push --set-upstream origin allcomands
+git rebase master
 
