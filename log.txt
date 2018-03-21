@@ -1,0 +1,41 @@
+commit a5a56b224d038368514e0076acd18b31ace199bb (HEAD -> logging, origin/master, master)
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:54:35 2018 +0100
+
+    Back to normal v2
+
+commit 2e6bbfe888770aa9982ad4471760daebae5c5d9f
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:51:51 2018 +0100
+
+    back to normal
+
+commit 35710272b819fa42c1867e57893dd513715e7eff
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:50:18 2018 +0100
+
+    Going to revert this
+
+commit a1adcc37a29dacf484a3e365d0baa2a875ece343
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:45:01 2018 +0100
+
+    modifying l1.txt
+
+commit b2338639659ae634f088c0aaa4dafefc49b219f3
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:36:55 2018 +0100
+
+    changing the l1.txt file
+
+commit a6a164f42fbacf762caa0eebebadccfbdfba5f08
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:29:39 2018 +0100
+
+    modify l1.txt
+
+commit 22a095a6e0a336a59dfa22aa4d0eacd54f9871d9
+Author: ivan.stojanov@students.finki.ukim.mk <ivan.stojanov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:27:36 2018 +0100
+
+    Initial commit
